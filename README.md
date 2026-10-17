@@ -62,3 +62,9 @@ docs/                       Screenshots and notes
 ## Dataset
 
 Amazon India e-commerce transactions: 37 columns covering product, customer, pricing, delivery, festival sale and return details.
+
+## Results
+
+Top states by revenue, queried from the Athena reporting view:
+
+![Athena query results](docs/athena-results.png)
